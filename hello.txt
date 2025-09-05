@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hi am asma
-=======
 hello world
->>>>>>> 928744c (adding hello.txt)
